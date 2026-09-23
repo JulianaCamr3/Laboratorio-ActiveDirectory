@@ -32,4 +32,4 @@ Em seguida, acessamos a pasta *Research and Development*, clicamos com o botão 
 
 ![Clicando em Properties](SOC/Labs/ActiveDirectoryLabs/imagens/LaboratorioActiveDirectory3.png)
 ![Desmarcando o mecanismo de proteção](SOC/Labs/ActiveDirectoryLabs/imagens/LaboratorioActiveDirectory4.png)
-![Opção desmarcada](imagens/LaboratorioActiveDirectory5.png)
+![Opção desmarcada](SOC/Labs/ActiveDirectoryLabs/imagens/LaboratorioActiveDirectory5.png)
