@@ -30,6 +30,6 @@ Então, para desativar esse mecanismo de proteção precisamos ir até o canto s
 
 Em seguida, acessamos a pasta *Research and Development*, clicamos com o botão direito e selecionamos a opção *Properties*. A partir dessa seção, clicamos na opção *Object* no canto supeior e desmarcamos a opção **Protect object from accidental deletion**. Após realizarmos essas operações, será possível excluir a pasta adequadamente
 
-![Clicando em Properties](imagens/LaboratorioActiveDirectory3.png)
+![Clicando em Properties](SOC/Labs/ActiveDirectoryLabs/imagens/LaboratorioActiveDirectory3.png)
 ![Desmarcando o mecanismo de proteção](imagens/LaboratorioActiveDirectory4.png)
 ![Opção desmarcada](imagens/LaboratorioActiveDirectory5.png)
