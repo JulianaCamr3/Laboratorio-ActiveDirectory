@@ -23,7 +23,7 @@ Na primeira imagem, é possível analisar a tela que possui a pasta  THM que con
 
 Então, para desativar esse mecanismo de proteção precisamos ir até o canto superior, na aba *View* e selecionar a opção *Advanced Features*.
 
-![Active Directory Users and Computers](Laboratorio-ActiveDirectory/blob/master/SOC/Labs/ActiveDirectoryLabs/imagens/LaboratorioActiveDirectory1.png)
+![Active Directory Users and Computers](SOC/Labs/ActiveDirectoryLabs/imagens/LaboratorioActiveDirectory1.png)
 
 
 ![Clicando em Advanced Features](imagens/LaboratorioActiveDirectory2.png)
